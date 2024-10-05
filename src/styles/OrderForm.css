@@ -1,0 +1,17 @@
+.order-form {
+  padding: 20px;
+}
+
+.order-form form {
+  display: flex;
+  flex-direction: column;
+}
+
+.order-form label {
+  margin-top: 10px;
+}
+
+.order-form input {
+  margin-bottom: 10px;
+  padding: 5px;
+}

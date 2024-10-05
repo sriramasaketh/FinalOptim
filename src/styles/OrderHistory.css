@@ -1,0 +1,9 @@
+.order-history {
+  padding: 20px;
+}
+
+.order-card {
+  border: 1px solid #ddd;
+  margin: 10px;
+  padding: 10px;
+}
